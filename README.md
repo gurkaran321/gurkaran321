@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Hello, I'm Gurkaranpreet Singh 👋 </h1>
-<h3 align="center">  Tech Enthusiast | Web Developer </h3>
+<h3 align="center">  Front End Developer </h3>
 <div align="center">
 
 <h2>How To Reach Me</h2>
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
-- 🌱 &nbsp;I am a tech and programming addict
+- 🌱 &nbsp;I am on my way to be a  programming addict
 - ✍️ &nbsp;A self learning front end developer
 - 🔭 &nbsp;Currently learning JavaScript
 - 🏋️‍♂️ &nbsp;Presently looking to work on exciting web development based projects
-- 📡 &nbsp;Seeking opportunities, I love to learn and contribute in any and every possible way
-- 💬 &nbsp;Ask me about: Tech, Troubleshooting, Fashion, History
+- 📡 &nbsp;Seeking opportunities, where  I contribute and add value
+- 💬 &nbsp;Ask me about: Tech,  Gym, HTML/CSS, Javascript
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
@@ -65,6 +65,4 @@ Here are some ideas to get you started:
 
 ---
 
-  <div align="center">
-    Time Zone: UTC - 5 | <a href="https://www.buymeacoffee.com/webdevchris" alt="Buy Coffee">Buy Me a Coffee</a>
-  </div>
+  
