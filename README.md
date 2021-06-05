@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 <h2> 📊 &nbsp;Profile Stats</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=webdevchris1&hide=stars,issues&count_private=true&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gurkaran3211&hide=stars,issues&count_private=true&show_icons=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevchris1&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkaran3211&layout=compact" />
   </a>
 
 ---
