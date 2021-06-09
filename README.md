@@ -53,6 +53,9 @@ Here are some ideas to get you started:
   ![Microsoft](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=ff6600)
 
 ---
+## Projects
+
+1. **Clipboard Landing Page** [LIVE](https://clipboard-gurkaran.netlify.app/)
 
 <h2> 📊 &nbsp;Profile Stats</h2>
 
