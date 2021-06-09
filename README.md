@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 ---
 ## Projects
 
-1. **Clipboard Landing Page** [LIVE](https://clipboard-gurkaran.netlify.app/)
+1. **Clipboard Landing Page**  [LIVE](https://clipboard-gurkaran.netlify.app/)  [CODE](https://github.com/gurkaran321/Frontendmentor-Challenge-solutions/tree/main/clipboard-landing-page-master)
+2. **Testimonial Grid System** [LIVE](https://testimonial-grid-gurkaran.netlify.app/) [CODE](https://github.com/gurkaran321/Frontendmentor-Challenge-solutions/tree/main/testimonials-grid-section-main)
+3. **Huddle Landing Page** [LIVE](https://gurkaran-dev-1995.netlify.app/) [CODE](https://github.com/gurkaran321/Frontendmentor-Challenge-solutions/tree/main/huddle-landing-page-with-alternating-feature-blocks-master)
 
 <h2> 📊 &nbsp;Profile Stats</h2>
 
